@@ -5,7 +5,7 @@ Netdata-Monitoring
  Deliverables: Screenshot of the dashboard and running metrics
  Mini-Guide (Hints):
  Run via Docker: docker run -d --name=netdata -p 19999:19999 netdata/netdata
- Access at http://localhost:19999
+ Access at http://13.201.44.90:19999/
  Monitor CPU, memory, disk, Docker containers
  Explore alerts and chart panels
  Explore logs in /var/log/netdata
